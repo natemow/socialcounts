@@ -1,8 +1,3 @@
-/*!
- * Adapted from PHP script:
- *    Sunny Verma, http://toolspot.org/script-to-get-shared-count.php
- * 
- */
 var http = require('http');
 var https = require('https');
 var Q = require('q');
