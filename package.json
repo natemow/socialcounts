@@ -1,0 +1,35 @@
+{
+  "name": "socialcounts",
+  "description": "A class for querying various social networks for a URL and getting share counts back.",
+  "author": {
+    "name": "Nate Mow",
+    "email": "natemow@gmail.com"
+  },
+  "contributors": [
+    {
+      "name": "Sunny Verma",
+      "url": "http://toolspot.org/script-to-get-shared-count.php"
+    }
+  ],
+  "keywords": [
+    "social",
+    "media",
+    "facebook",
+    "twitter",
+    "google+"
+  ],
+  "license": "MIT",
+  "version": "0.0.1",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/natemow/socialcounts.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "underscore": "~1.7.0",
+    "q": "~1.1.1"
+  }
+}
